@@ -3,7 +3,7 @@ TITLE:  Responsive Landing Page Headphones
 
 AUTHOR:
 DESIGNED & DEVELOPED by Harsh
-
+check website  https://harsh160311.github.io/Responsive-landing-page/ 
 Responsive Landing Page Headphones 
 - Beautiful headphone landing page using HTML, CSS and JAVASCRIPT.
 - Dark interface.
